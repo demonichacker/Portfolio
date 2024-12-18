@@ -1,0 +1,21 @@
+button{
+    background-color: #000;
+    color: #129bf8;
+    font-size: 16px;
+    padding: 15px 25px;
+    border: 0;
+    outline: 0;
+    border-radius: 40px;
+    cursor: pointer;
+    border: #129bf8;
+
+}
+.success{
+    background: #129bf8;
+    padding: 5px 10px;
+    text-align: center;
+    color: #0c0e37;
+    border-radius: 3px;
+    font-synthesis: 14px;
+    margin-top: 10px;
+}
